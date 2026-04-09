@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou o Enrique Carvalho! 👋</h1>
+<h1 align="center">Olá, eu sou o Enrique Carvalho! 👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -32,6 +32,11 @@
 </div>
 
 ###
+
+<div align="left">
+</div>
+
+###
 <div>
 
 <a href="https://www.instagram.com/riquinkrl/" target="_blank">
@@ -45,8 +50,3 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
-
-#### readme
