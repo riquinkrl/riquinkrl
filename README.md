@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de ADS - (IFPI)<br>Programador iniciante.</p>
+<p align="left">Estudante de ADS - (IFPI)<br>Programador iniciante.<br> Fascinado pela cultura tech.</p>
 
 ###
 
