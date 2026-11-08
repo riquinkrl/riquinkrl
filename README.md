@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Me chamo Enrique Carvalho, tenho 19 anos e sou natural do Distrito Federal. Atualmente curso Análise e Desenvolvimento de Sistemas no IFPI. Sou apaixonado por tecnologia, curioso e interessado sobre Hardware e desenvolvimento web.
+Me chamo Enrique Carvalho, tenho 19 anos e sou natural do Distrito Federal. Atualmente curso Análise e Desenvolvimento de Sistemas no IFPI. Sou apaixonado por tecnologia, curioso e interessado sobre  desenvolvimento web.
 
 <img align="right" alt="" height="190px" src="./src/frogadier.gif">
 
