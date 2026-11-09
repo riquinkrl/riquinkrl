@@ -75,6 +75,3 @@ Me chamo Enrique Carvalho, tenho 19 anos e sou natural do Distrito Federal. Atua
 <br clear="all"/>
 <br/>
 
-<div align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWpjcGRqbjBsdHZidHkycXZ2amhhcmVpY3FlZm8wZXRmOHVldTFmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13G7ny635H22VG/giphy.gif](https://tenor.com/pt-BR/view/happy-birthday-gif-26971262)" alt="Batman" width="250px">
-</div>
